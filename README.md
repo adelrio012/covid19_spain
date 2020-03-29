@@ -2,9 +2,9 @@
 
 Official Data Source: https://www.mscbs.gob.es/
 
-Official Data in pdf (2020-03-03 to 2020-03-27): covid_spa_pdfs
+Official Data in pdf (2020-03-03 to Today): covid_spa_pdfs
 
-Official Data in .csv (2020-03-03 to 2020-03-27):
+Official Data in .csv (2020-03-03 to Today):
 
     1) COVID19_SPA.csv the data correspond to the whole of the Spanish State. 
     2) COVID19_SPA_AC.csv the data has been classified by Autonomous Communities (Regions).
